@@ -1,0 +1,17 @@
+body {
+	color : darkgreen;
+	background-color: #ccc;
+}
+h1 {
+	color : cyon;
+}
+td a {
+	background-color: darkgreen;
+	text-decoration:none;
+	color : white;
+	border-raduis: .5rem;
+}
+center {
+	color : darkgreen;
+	background-color: #ccc;
+}
